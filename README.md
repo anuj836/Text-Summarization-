@@ -40,3 +40,7 @@ The GUI portion uses Tkinter to create an interactive interface. A Text  widget 
 The GUI is simple and intuitive, providing an effective way to demonstrate extractive summarization based on TF-IDF. It is especially useful in educational settings or for quick summarization tasks. While not as advanced as abstractive models using transformers or deep learning, this approach remains fast, interpretable, and easy to implement.
 
 Overall, this script combines classical NLP techniques with a user-friendly interface, making it a practical tool for understanding the mechanics of text summarization.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fe9d83d6-2181-4557-b2ef-822348aa95a9)
